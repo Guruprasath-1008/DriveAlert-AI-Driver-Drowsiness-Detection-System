@@ -222,7 +222,7 @@ To develop an AI-based driver monitoring system that detects driver drowsiness u
 
 ## 👨‍💻 Developer
 
-**Dharnidharan SS**
+**Guruprasath D**
 
 B.Tech Artificial Intelligence and Data Science
 
